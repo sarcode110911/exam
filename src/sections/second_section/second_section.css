@@ -1,0 +1,27 @@
+.second_section_title{
+    font-size: 32px;
+    line-height: 48px;
+    color: #2B2A29;
+    margin-bottom: 24px;
+}
+
+.second_cards_div{
+    padding-left: 40px;
+    gap: 32px;
+}
+
+.second_section{
+    margin-top: 61px;
+}
+
+.second_cards_div2{
+    padding-left: 40px;
+    gap: 32px;
+    margin-top: 32px;
+}
+
+.second_section_title2{
+    font-size: 32px;
+    line-height: 41.6px;
+    margin-top: 56px;
+}
